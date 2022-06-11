@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6334a6dc-c48b-4076-a2d4-728c14bf4182" name="Changes" comment="Planning">
-      <change afterPath="$PROJECT_DIR$/RoadMap/Java/LeetCode - 1 Program Daily/src/Twosum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoadMap/Java/LeetCode - 1 Program Daily/src/Intersection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoadMap/Java/LeetCode - 1 Program Daily/out/production/LeetCode - 1 Program Daily/Twosum.class" beforeDir="false" afterPath="$PROJECT_DIR$/RoadMap/Java/LeetCode - 1 Program Daily/out/production/LeetCode - 1 Program Daily/Twosum.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +32,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/git-kushal/New-Git/RoadMap/Java/LeetCode - 1 Program Daily"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TwoSum" />
