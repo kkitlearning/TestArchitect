@@ -10,7 +10,6 @@ class Twosum {
 
         for(int i=0;i<arrNums.length;i++) {
 
-
             Integer requiredNum =  (Integer)(target-arrNums[i]);
 
             if(numsMap.containsKey(requiredNum)){
